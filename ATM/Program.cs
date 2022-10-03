@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace ATM;
+
+    static class Program 
+    {
+        // ATM Machine. My second project for practicing purposes using C#.
+        static void Main()
+        {
+            
+        }
+    }
